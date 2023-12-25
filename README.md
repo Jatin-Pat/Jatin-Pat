@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚁𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝙼𝚎𝚜𝚜𝚊𝚐𝚎 𝚖𝚎 𝚘𝚗: 
 
-<a href="https://www.linkedin.com/in/jatin-pat/"><img src="https://github.com/Jatin-Pat/Jatin-Pat/blob/main/social.png" height="20px" alt="Jatin Patel on LinkedIn" title="Jatin Patel on LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/jatin-pat/"><img src="https://github.com/Jatin-Pat/Jatin-Pat/blob/main/social.png" height="30em" align="center" alt="Jatin Patel on LinkedIn" title="Jatin Patel on LinkedIn"/></a>
