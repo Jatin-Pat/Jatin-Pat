@@ -1,4 +1,4 @@
-[<img src="https://github.com/Jatin-Pat/Jatin-Pat/blob/main/intro.gif" alt="👋 Hi there! I'm Jatin Patel" title="👋 Hi there! I'm Jatin Patel"/>]
+https://github.com/Jatin-Pat/Jatin-Pat/blob/main/intro.gif
 
 <!--
 **Jatin-Pat/Jatin-Pat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
