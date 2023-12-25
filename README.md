@@ -16,8 +16,14 @@ Here are some ideas to get you started:
 -->
 
 ## <img src="https://github.com/Jatin-Pat/Jatin-Pat/blob/main/wave-hand.gif" width="30px" alt="👋"> About Me
-- 👨‍💻 Software Engineer | Problem Solver | 
--
--
--
+- 👨‍💻 Software Engineer | Problem Solver | Opportunity Seeker
+- 🎓 Studying towards a BEng. Software Engineering at McGill University, graduating April 2026
+- 🔬 Areas of professional interest include large-scale distributed systems, computer vision, AR/VR
+- 💼 Industry experience...
+  - Back-end Developer Intern - Electronic Trading Technology @ National Bank of Canada
+- Favourite singer: Adele
+
+## 📫 How to Reach me:
+Message me on 
+
 
