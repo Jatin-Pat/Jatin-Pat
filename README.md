@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## <img src = https://github.com/Jatin-Pat/Jatin-Pat/blob/main/wave-hand.gif> About Me
+## <img src="https://github.com/Jatin-Pat/Jatin-Pat/blob/main/wave-hand.gif" width="30px" alt="👋"> About Me
 - 👨‍💻 Software Engineer | Problem Solver | 
 -
 -
 -
+
