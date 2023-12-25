@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 - Favourite singer: Adele
 
 ## 📫 How to Reach me:
-Message me on [<img src="https://github.com/Jatin-Pat/Jatin-Pat/blob/main/social.png" height="15px" alt="Jatin Patel on LinkedIn" title="Jatin Patel on LinkedIn"/>](https://www.linkedin.com/in/jatin-pat/)
-
+Message me on:
+[<img src="https://github.com/Jatin-Pat/Jatin-Pat/blob/main/social.png" height="40em" alt="Jatin Patel on LinkedIn" title="Jatin Patel on LinkedIn"/>](https://www.linkedin.com/in/jatin-pat/)
+For Recruiters:
+jatin.pat@outlook.com
 
 
