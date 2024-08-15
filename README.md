@@ -10,6 +10,7 @@
 - 💼 Industry Experience...
   - Software Engineer Intern - [Image Generation Team](https://www.youtube.com/watch?v=KAUMeXwELhs) @ CAE
   - Software Engineer Intern - [Electronic Trading Development Team](https://nbfm.ca/) @ National Bank Financial Markets
+- 🎯 Currently open for Summer 2025 internship opportunities
 
 ## 📫 How to Reach Me
 Message me on:
