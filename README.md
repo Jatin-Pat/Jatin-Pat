@@ -1,17 +1,18 @@
 <kbd>
-  <img src="https://github.com/Jatin-Pat/Jatin-Pat/blob/main/intro.gif" alt="👋 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎! 𝙸'𝚖 𝙹𝚊𝚝𝚒𝚗" title="👋 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎! 𝙸'𝚖 𝙹𝚊𝚝𝚒𝚗"/>
+  <img src="https://github.com/Jatin-Pat/Jatin-Pat/blob/main/intro.gif" alt="👋 Hi there! I'm Jatin" title="👋 Hi there! I'm Jatin"/>
 </kbd>
 
-## <img src="https://github.com/Jatin-Pat/Jatin-Pat/blob/main/wave-hand.gif" width="30px" alt="👋"> 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 👨‍💻 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 | 𝙿𝚛𝚘𝚋𝚕𝚎𝚖 𝚂𝚘𝚕𝚟𝚎𝚛 | 𝚕𝚒𝚏𝚎𝚕𝚘𝚗𝚐 𝚕𝚎𝚊𝚛𝚗𝚎𝚛
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚝𝚘𝚠𝚊𝚛𝚍𝚜 𝚊 𝙱𝙴𝚗𝚐. 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚊𝚝 𝙼𝚌𝙶𝚒𝚕𝚕 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 𝙰𝚙𝚛𝚒𝚕 𝟸0𝟸𝟼 𝚠𝚒𝚝𝚑 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚊𝚝𝚒𝚘𝚗 𝚒𝚗 𝙰𝚙𝚙𝚕𝚒𝚎𝚍 𝙰𝚛𝚝𝚒𝚏𝚒𝚌𝚒𝚊𝚕 𝙸𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚌𝚎
-- 🔬 𝙰𝚛𝚎𝚊𝚜 𝚘𝚏 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝 𝚒𝚗𝚌𝚕𝚞𝚍𝚎 𝚕𝚊𝚛𝚐𝚎-𝚜𝚌𝚊𝚕𝚎 𝚍𝚒𝚜𝚝𝚛𝚒𝚋𝚞𝚝𝚎𝚍 𝚜𝚢𝚜𝚝𝚎𝚖𝚜, 𝚍𝚊𝚝𝚊 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐, 𝚊𝚗𝚍 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚟𝚒𝚜𝚒𝚘𝚗
-- 💪 𝚃𝚘𝚙 𝚂𝚔𝚒𝚕𝚕𝚜 𝚒𝚗𝚌𝚕𝚞𝚍𝚎 𝚋𝚞𝚝 𝚊𝚛𝚎 𝚗𝚘𝚝 𝚕𝚒𝚖𝚒𝚝𝚎𝚍 𝚝𝚘 𝙲++, 𝙿𝚢𝚝𝚑𝚘𝚗, 𝚊𝚗𝚍 𝙹𝚊𝚟𝚊
-- 💼 𝙸𝚗𝚍𝚞𝚜𝚝𝚛𝚢 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎...
-  - 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝙸𝚗𝚝𝚎𝚛𝚗 - 𝙴𝚕𝚎𝚌𝚝𝚛𝚘𝚗𝚒𝚌 𝚃𝚛𝚊𝚍𝚒𝚗𝚐 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚃𝚎𝚊𝚖 @ 𝙽𝚊𝚝𝚒𝚘𝚗𝚊𝚕 𝙱𝚊𝚗𝚔 𝙵𝚒𝚗𝚊𝚗𝚌𝚒𝚊𝚕 𝙼𝚊𝚛𝚔𝚎𝚝𝚜
-  - 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝙸𝚗𝚝𝚎𝚛𝚗 - 𝙸𝚖𝚊𝚐𝚎 𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚒𝚘𝚗 𝚃𝚎𝚊𝚖 @ 𝙲𝙰𝙴
+## <img src="https://github.com/Jatin-Pat/Jatin-Pat/blob/main/wave-hand.gif" width="30px" alt="👋"> About Me
+- 👨‍💻 Software Engineer | Problem Solver | Lifelong Learner
+- 🎓 Studying towards a BEng. Software Engineering at McGill University, graduating in April 2026 with a specialization in Applied Artificial Intelligence.
+- 🔬 Areas of professional interest include large-scale distributed systems, data engineering, and computer vision.
+- 💪 Top Skills include but are not limited to C++, Python, Java, AWS, Spark/Kafka/Hadoop, Docker/Kubernetes, Networking
+- 💼 Industry Experience...
+  - [Software Engineer Intern - Image Generation Team @ CAE](https://www.youtube.com/watch?v=KAUMeXwELhs)
+  - [Software Engineer Intern - Electronic Trading Development Team @ National Bank Financial Markets](https://nbfm.ca/)
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚁𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝙼𝚎𝚜𝚜𝚊𝚐𝚎 𝚖𝚎 𝚘𝚗: 
 
-<a href="https://www.linkedin.com/in/jatin-pat/"><img src="https://github.com/Jatin-Pat/Jatin-Pat/blob/main/social.png" height="30em" align="center" alt="𝙹𝚊𝚝𝚒𝚗 𝙿𝚊𝚝𝚎𝚕 𝚘𝚗 𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗" title="𝙹𝚊𝚝𝚒𝚗 𝙿𝚊𝚝𝚎𝚕 𝚘𝚗 𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗"/></a>
+## 📫 How to Reach Me
+Message me on:
+
+<a href="https://www.linkedin.com/in/jatin-pat/"><img src="https://github.com/Jatin-Pat/Jatin-Pat/blob/main/social.png" height="30em" align="center" alt="Jatin Patel on LinkedIn" title="Jatin Patel on LinkedIn"/></a>
