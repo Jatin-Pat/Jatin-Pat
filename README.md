@@ -1,4 +1,6 @@
-<img src="https://github.com/Jatin-Pat/Jatin-Pat/blob/main/intro.gif" alt="👋 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎! 𝙸'𝚖 𝙹𝚊𝚝𝚒𝚗" title="👋 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎! 𝙸'𝚖 𝙹𝚊𝚝𝚒𝚗"/>
+<kbd>
+  <img src="https://github.com/Jatin-Pat/Jatin-Pat/blob/main/intro.gif" alt="👋 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎! 𝙸'𝚖 𝙹𝚊𝚝𝚒𝚗" title="👋 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎! 𝙸'𝚖 𝙹𝚊𝚝𝚒𝚗"/>
+</kbd>
 
 ## <img src="https://github.com/Jatin-Pat/Jatin-Pat/blob/main/wave-hand.gif" width="30px" alt="👋"> 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 👨‍💻 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 | 𝙿𝚛𝚘𝚋𝚕𝚎𝚖 𝚂𝚘𝚕𝚟𝚎𝚛 | 𝚕𝚒𝚏𝚎𝚕𝚘𝚗𝚐 𝚕𝚎𝚊𝚛𝚗𝚎𝚛
