@@ -10,7 +10,7 @@
 - 💼 Industry Experience...
   - Software Engineer Intern - [Image Generation Team](https://www.youtube.com/watch?v=KAUMeXwELhs) @ CAE
   - Software Engineer Intern - [Electronic Trading Development Team](https://nbfm.ca/) @ National Bank Financial Markets
-
+- 📌 [My Work](https://github.com/Jatin-Pat/portfolio)
 ## 📫 How to Reach Me
 Message me on:
 
