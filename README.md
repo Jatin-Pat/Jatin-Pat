@@ -8,9 +8,9 @@
 - 🔬 Areas of professional interest include large-scale distributed systems, data engineering, and computer vision.
 - 💪 Top skills include but are not limited to C++, Python, Java, AWS, Spark/Kafka/Hadoop, Docker/Kubernetes, Networking
 - 💼 Industry Experience...
-  - Software Engineer Intern - [Image Generation Team](https://www.youtube.com/watch?v=KAUMeXwELhs) @ CAE
-  - Software Engineer Intern - [Electronic Trading Development Team](https://nbfm.ca/) @ National Bank Financial Markets
-- 📌 [My Work](https://github.com/Jatin-Pat/portfolio)
+  - Software Engineer Intern - Core infra @ Shopify
+  - Software Engineer Intern - Rendering engine & Real-time systems @ CAE
+  - Software Engineer Intern - Electronic trading @ National Bank Financial Markets
 ## 📫 How to Reach Me
 Message me on:
 
