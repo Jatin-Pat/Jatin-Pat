@@ -8,7 +8,7 @@
 - 🔬 Areas of professional interest include large-scale distributed systems, data engineering, and computer vision.
 - 💪 Top skills include but are not limited to C++, Python, Java, AWS, Spark/Kafka/Hadoop, Docker/Kubernetes, Networking
 - 💼 Work Experience...
-  - Software Engineer Intern - Core infra @ Shopify
+  - Software Engineer Intern - Revenue Data @ Shopify
   - Software Engineer Intern - Rendering engine & Real-time systems @ CAE
   - Software Engineer Intern - Electronic trading @ National Bank Financial Markets
 ## 📫 How to Reach Me
