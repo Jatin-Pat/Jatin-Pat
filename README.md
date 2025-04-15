@@ -12,6 +12,17 @@
   - Software Engineer Intern - Revenue Data @ Shopify
   - Software Engineer Intern - Rendering engine & Real-time systems @ CAE
   - Software Engineer Intern - Electronic trading @ National Bank Financial Markets
+ 
+## 🚀 Explore My Project Portfolio
+
+Curious about what I’ve been building?
+
+🔗 [Click here to view my GitHub Portfolio →](https://github.com/Jatin-Pat/portfolio)
+
+It includes a collection of my featured projects, organized by category and technology — from real-time systems and networking tools to full-stack web apps and machine learning pipelines.
+
+Take a look and dive into the code!
+
 ## 📫 How to Reach Me
 Message me on:
 
